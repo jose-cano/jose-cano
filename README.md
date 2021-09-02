@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello everyone 👋
 
 My name is Jose Cano and I am an aspiring data scientist. I am interested in finding insights within data using all sorts of tools and technology. I am also currently pursuing a Masters degree in Computer Information Systems and Business Analytics. You can find me on [LinkedIn][1].
 
