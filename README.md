@@ -1,6 +1,6 @@
 ### Hello everyone!<img src="https://c.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif" width="50">
 
-My name is Jose Cano and I am an aspiring data scientist. I am interested in finding insights within data using all sorts of tools and technology. I am also currently pursuing a Masters degree in Computer Information Systems and Business Analytics. You can find me on [LinkedIn][1].
+My name is Jose Cano and I am a data science/machine learning enthusiast. I am interested in finding insights within data using all sorts of tools and technology. You can find some examples of my work here. I also have a Masters degree in Computer Information Systems and Business Analytics. Feel free to connect with me on [LinkedIn][1].
 
 <!-- Icons -->
 
