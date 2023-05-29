@@ -1,6 +1,6 @@
 ### Hello everyone!<img src="https://c.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif" width="50">
 
-My name is Jose Cano, and I am a data scientist for a health insurance company. I am interested building tools to leverage data, and finding actionable insights. You can find some examples of my work here. I also have a Masters degree in Computer Information Systems and Business Analytics. Feel free to connect with me on [LinkedIn][1].
+My name is Jose Cano, and I am a data scientist for a health insurance company. I am interested in building tools by leveraging data, and in finding actionable insights from data. You can find some examples of my work here. I also have a Masters degree in Computer Information Systems and Business Analytics. Feel free to connect with me on [LinkedIn][1].
 
 <!-- Icons -->
 
