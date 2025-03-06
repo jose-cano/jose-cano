@@ -19,7 +19,7 @@ My name is Jose, and I am a data scientist for a health insurance company. I am 
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/jose-cano/jose-cano">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-cano&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141414" alt="Jose's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-cano&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141414" alt="Jose's GitHub Stats" />
 </a>
 <br>
 <br>
